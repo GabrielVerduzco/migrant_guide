@@ -136,3 +136,76 @@
     width: 180px;
   }
 }
+@media (max-width:938px){
+  #circulo-1{
+    height:600px;
+    width: 600px;
+    left: -291px;
+    bottom: -25px;
+  }
+  #circulo-2{
+    height:400px;
+    width: 400px;
+    left: 105px;
+    top: 80px;
+  }
+  #circulo-3{
+
+    height:300px;
+    width: 300px;
+    left: 40px;
+    bottom: 45px;
+  }
+  .circle-dad{
+    height:415px;
+  }
+  #man{
+    top: 20px;
+    left: 150px;
+    width: 99px;
+  }
+}
+@media (max-width:792px){
+  #head3, #head2{
+    font-size: 40px;
+  }
+  #head1{
+    font-size: 65px;
+  }
+  #circulo-1{
+    height:500px;
+    width: 500px;
+    left: -243px;
+    bottom: -115px;
+  }
+  #circulo-2{
+    height:320px;
+    width: 320px;
+    left: 109px;
+    top: 69px;
+  }
+  #circulo-3{
+
+    height:215px;
+    width: 215px;
+    left: 40px;
+    bottom: 45px;
+    left: 49px;
+    bottom: 42px;
+  }
+  .circle-dad{
+    height:400px;
+  }
+  #man{
+    top: 20px;
+    left: 95px;
+    width: 75px;
+  }
+  #main_content{
+    margin-top: 30px;
+  }
+  #topic{
+    font-size: 20px;
+  }
+
+}
